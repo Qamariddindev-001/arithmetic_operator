@@ -7,5 +7,11 @@ Find the sum of a and b than assign to 'answer'
 
 */
 void main() {
+  int a;
+  int b;
+  a = 3;
+  b = 4;
+  int answer = a + b;
+  print(answer);
   //write your code here
 }
