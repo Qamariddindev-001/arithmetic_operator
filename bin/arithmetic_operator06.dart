@@ -8,5 +8,13 @@ Find the sum of a, b and c then assign to "answer".
 
 */
 void main() {
+  int a;
+  int b;
+  int c;
+  a = 7;
+  b = 3;
+  c = 5;
+  int answer = a + b + c;
+  print(answer);
   //write your code here
 }
